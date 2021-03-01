@@ -1,0 +1,19 @@
+library	name
+125589-hg19	Human ATAC from human/rat mix
+125589-rn6	Rat ATAC from human/rat mix
+133151-hg19	Human ATAC, no FANS rep1
+133152-hg19	Human ATAC, FANS rep1
+133153-hg19	Human ATAC, no FANS rep2
+133154-hg19	Human ATAC, FANS rep2
+63_20-hg19	Human ATAC, 20k nuclei
+63_40-hg19	Human ATAC, 40k nuclei
+133155-hg19	Human RNA, no FANS rep1
+133156-hg19	Human RNA, FANS rep1
+133157-hg19	Human RNA, no FANS rep2
+133158-hg19	Human RNA, FANS rep2
+63_20_rna-hg19	Human RNA, 20k nuclei
+63_40_rna-hg19	Human RNA, 40k nuclei
+1846_ATAC-hg19	Human ATAC component of human/rat mix dual modality library
+1846_ATAC-rn6	Rat ATAC component of human/rat mix dual modality library
+1846_RNA-hg19	Human RNA component of human/rat mix dual modality library
+1846_RNA-rn6	Rat RNA component of human/rat mix dual modality library

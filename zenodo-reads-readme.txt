@@ -1,0 +1,3 @@
+* filtered-read-locations directory contain starched bed-like files. Note that we've removed all alignment CIGAR information for privacy purposes; this may cause read locations to appear much longer than actual read length, especially for RNA data (due to splicing):
+** For ATAC: read mapping locations after filtering to high-quality alignments and duplicate removal. For single-nucleus libraries, corrected nucleus barcode is encoded in read name.
+** For RNA: read mapping locations after filtering, but before duplicate removal. Corrected nucleus barcode and UMI are encoded (in that order) in read names.
